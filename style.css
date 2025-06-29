@@ -1,9 +1,9 @@
 /* Variabel Warna & Font */
 :root {
-    --primary-color: #D8A7B1; /* Dusty Rose */
-    --secondary-color: #B08853; /* Gold */
-    --text-color: #333; /* Charcoal Grey */
-    --light-bg-color: #FAF5F6; /* Light Rose */
+    --primary-color: #A076F9;   /* BARU: Ungu Cerah (Bright Purple) */
+    --secondary-color: #8D99AE; /* BARU: Aksen Perak/Abu-abu (Silver/Grey Accent) */
+    --text-color: #333;        /* Tetap: Abu-abu Tua (Charcoal Grey) */
+    --light-bg-color: #EAE4FF;  /* BARU: Latar Belakang Ungu Sangat Muda (Very Light Purple BG) */
     --white-color: #FFFFFF;
     --font-heading: 'Playfair Display', serif;
     --font-body: 'Lato', sans-serif;
@@ -61,7 +61,7 @@ section {
 }
 
 .btn:hover {
-    background-color: #9c7340;
+    background-color: #6c757d; /* Warna hover sedikit lebih gelap */
 }
 
 /* Header */
